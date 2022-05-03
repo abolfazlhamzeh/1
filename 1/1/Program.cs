@@ -1,1 +1,2 @@
-﻿var number = 10;
+﻿int x = 100;
+Console.WriteLine(x); 
